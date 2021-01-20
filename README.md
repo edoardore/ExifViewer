@@ -1,5 +1,5 @@
 # ExifViewer
-Simple Qt GUI in C++ for EXIF in jpeg file
+Simple GUI for EXIF in jpeg file 
 
 ## Utilizzo
 Scaricare [Qt Creator](https://www.qt.io/download) ed aprire la cartella ExifViewer.
